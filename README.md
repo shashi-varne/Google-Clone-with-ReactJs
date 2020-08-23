@@ -1,8 +1,5 @@
-Screenshots of the project
+Screenshots of the Project
 
-![Screenshot (1)](https://user-images.githubusercontent.com/59960295/90983899-34f86700-e58f-11ea-8fa9-47fcf2dd7a0e.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/59960295/90984094-90772480-e590-11ea-9ede-765160626195.png)
 
-Search result Example
-
-![Screenshot (2)](https://user-images.githubusercontent.com/59960295/90983970-a7694700-e58f-11ea-8e2e-940d9d1e194b.png)
-
+![Screenshot (4)](https://user-images.githubusercontent.com/59960295/90984100-966d0580-e590-11ea-8ffa-2862e286cc36.png)
